@@ -13,7 +13,8 @@
 
 1. Загрузи прошивку `portal_led.ino` на Arduino Nano
 2. Подключи 8 LED к пинам D2–D9 (через резисторы 220-330 Ом)
-3. Запусти файл `start_portal.bat`
+3. Скачать Python и прописать в CMD `pip install colorama`
+4. Запусти файл `start_portal.bat`
 
 ### Файлы в проекте:
 
